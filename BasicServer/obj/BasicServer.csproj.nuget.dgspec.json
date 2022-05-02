@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dev\\GitHub\\leberns\\HotChocolateDemo\\BasicServer\\BasicServer.csproj": {}
+    "c:\\Dev\\GitHub\\leberns\\HotChocolateDemo\\BasicServer\\BasicServer.csproj": {}
   },
   "projects": {
-    "C:\\Dev\\GitHub\\leberns\\HotChocolateDemo\\BasicServer\\BasicServer.csproj": {
+    "c:\\Dev\\GitHub\\leberns\\HotChocolateDemo\\BasicServer\\BasicServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\GitHub\\leberns\\HotChocolateDemo\\BasicServer\\BasicServer.csproj",
+        "projectUniqueName": "c:\\Dev\\GitHub\\leberns\\HotChocolateDemo\\BasicServer\\BasicServer.csproj",
         "projectName": "BasicServer",
-        "projectPath": "C:\\Dev\\GitHub\\leberns\\HotChocolateDemo\\BasicServer\\BasicServer.csproj",
+        "projectPath": "c:\\Dev\\GitHub\\leberns\\HotChocolateDemo\\BasicServer\\BasicServer.csproj",
         "packagesPath": "C:\\Users\\leber\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\GitHub\\leberns\\HotChocolateDemo\\BasicServer\\obj\\",
+        "outputPath": "c:\\Dev\\GitHub\\leberns\\HotChocolateDemo\\BasicServer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

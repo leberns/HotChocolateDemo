@@ -25,4 +25,7 @@ dotnet new -i HotChocolate.Templates::13.0.0-preview.19
 dotnet new graphql
 dotnet restore
 
+dotnet run
 ´´´
+
+browse https://localhost:5001/graphql/

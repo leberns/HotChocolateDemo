@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sg0b45SUtBXcH5YqvQOdajhMuc+pxHcwbNv71mtuTluCruDcHZ8KX43lAyUO9cV9wIHIzh2cl94shdPZUKVcRg==",
+  "dgSpecHash": "Tyai1pZ38nMPwpR9f/l79WJUYDIFIPUBJa+5YBM80w/K+yuROzDi3Hfwv6y18RwW2eA2ZdLf7yLVVSe0x7pUxw==",
   "success": true,
-  "projectFilePath": "C:\\Dev\\GitHub\\leberns\\HotChocolateDemo\\BasicServer\\BasicServer.csproj",
+  "projectFilePath": "c:\\Dev\\GitHub\\leberns\\HotChocolateDemo\\BasicServer\\BasicServer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leber\\.nuget\\packages\\greendonut\\13.0.0-preview.18\\greendonut.13.0.0-preview.18.nupkg.sha512",
     "C:\\Users\\leber\\.nuget\\packages\\hotchocolate\\13.0.0-preview.18\\hotchocolate.13.0.0-preview.18.nupkg.sha512",
